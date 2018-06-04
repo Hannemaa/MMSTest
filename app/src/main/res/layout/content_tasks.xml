@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="hannemann.ak.healthapp.TasksActivity"
+    tools:showIn="@layout/activity_tasks">
+    <ViewFlipper xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/vf"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+        <include layout="@layout/content_task01" />
+        <include layout="@layout/content_task02" />
+        <include layout="@layout/content_task03" />
+        <include layout="@layout/content_task04" />
+        <include layout="@layout/content_task05" />
+        <include layout="@layout/content_task06" />
+        <include layout="@layout/content_task07" />
+        <include layout="@layout/content_task08" />
+        <include layout="@layout/content_task09" />
+        <include layout="@layout/content_task10" />
+        <include layout="@layout/content_task11" />
+    </ViewFlipper>
+</android.support.constraint.ConstraintLayout>

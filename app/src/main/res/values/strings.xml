@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">HealthApp</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_drawing11">drawing11</string>
+    <string name="title_activity_memorize03">Memorize03</string>
+
+    <string name="task01_Uhrzeit">Wie spät ist es?</string>
+    <string name="task01_Datum">Welches Datum ist heute?</string>
+    <string name="task01_Jahr">Welches Jahr haben wir?</string>
+    <string name="task01_Monat">Welchen Monat haben wir?</string>
+    <string name="task01_Wochentag">Welcher Wochentag ist heute?</string>
+    <string name="task01_Tag">Welcher Tag ist heute?</string>
+    <string name="task01_Jahreszeit">Welche Jahreszeit ist gerade?</string>
+
+    <string name="task02_wo">Wo sind Sie gerade?</string>
+    <string name="task02_Bundesland">In welchem Bundesland sind Sie?</string>
+    <string name="task02_Stadt">In welcher Stadt sind Sie?</string>
+    <string name="task02_Ort">Wo sind Sie gerade?</string>
+    <string name="task02_Krankenhaus">Wo sind Sie gerade?</string>
+    <string name="task02_Station">Wo sind Sie gerade?</string>
+    <string name="task02_Stockwerk">Wo sind Sie gerade?</string>
+
+    <string name="task03">Sagen Sie die folgenden Begriffe laut:</string>
+    <string name="task03_words">Apfel, \nPfennig, \nTisch</string>
+    <string name="task03_memorize">Merken Sie sich die Begriffe!</string>
+
+    <string name="task04">Subtrahieren sie Sieben von 100.</string>
+    <string name="task04_93_86_79_72">Subtrahieren sie Sieben von ZWISCHENERGEBNIS.</string>
+
+    <string name="task05">Welche Begriffe sollten Sie sich merken? Wiederholen Sie diese laut.</string>
+
+    <string name="task06_StiftArmbanduhr">Welche Gegenstände zeigt Ihnen der Gutachter?</string>
+
+    <string name="task07">Drücken Sie auf das Lautsprechersymbol und sprechen Sie die zu hörende Phrase nach.</string>
+
+    <string name="task08">Nehmen Sie ein Blatt Papier, falten Sie es und legen Sie es auf den Boden.</string>
+
+    <string name="task09">Lesen Sie die folgende Aufforderung und befolgen Sie sie:</string>
+    <string name="task09_AugenZu">Augen zu!</string>
+
+    <string name="task10">Formulieren Sie einen Satz und schreiben Sie ihn hier auf</string>
+    <string name="task11">Zeichnen Sie zwei Fünfecke die sich überschneiden.</string>
+    <string name="title_activity_tasks">TasksActivity</string>
+
+</resources>
